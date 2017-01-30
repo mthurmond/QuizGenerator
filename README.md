@@ -1,4 +1,6 @@
 # QuizGenerator
-Generates a quiz using an array with nested objects. 
+Generates a quiz, accepts user input, and grades it for accuracy. 
 
-To update the questions, just update the "question" and "answer" properties of each object. Uses basic loops and if/then statements to prompt user input and cycle through each response. 
+Uses an array with nested objects to store all question information. Uses loops and if/then statements to prompt the user for input and to cycle through and grade each response.   
+
+To update the questions, just update the "question" and "answer" properties of each object.
